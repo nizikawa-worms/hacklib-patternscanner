@@ -1,3 +1,7 @@
+# Hacklib-PatternScanner #
+
+PatternScanner extracted from Hacklib.
+
 # Hacklib #
 
 Hacklib is a C++ library for building applications that run as a shared library in another application. It provides general purpose functionality like pattern scanning, hooking and laying out foreign classes. Additionally it contains some D3D and OpenGL drawing facilities and a cross-platform, high-performance, 3D-capable, transparent overlay.
